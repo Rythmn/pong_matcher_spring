@@ -1,6 +1,6 @@
 ---
 applications:
-  - name: springpong_Ajay1
+  - name: springpong_Shripal1
     buildpack: java_buildpack
     path: target/pong-matcher-spring-1.0.0.BUILD-SNAPSHOT.jar
     services:
